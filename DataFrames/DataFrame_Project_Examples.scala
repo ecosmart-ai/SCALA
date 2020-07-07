@@ -1,5 +1,5 @@
 // DATAFRAME PROJECT
-//import Spark librarie
+//import Spark library
 // Use the Netflix_2011_2016.csv file to Answer and complete
 // Start a simple Spark Session
 import org.apache.spark.sql.SparkSession
